@@ -73,16 +73,6 @@ I'm a second-year **Computer Science student at the Cracow University of Technol
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Get in Touch
 
 <p align="left">
