@@ -60,14 +60,14 @@ I'm a second-year **Computer Science student at the Cracow University of Technol
 <td width="50%">
   <h3>🎓 Algorithms & Data Structures</h3>
   <p>A collection of academic projects implementing key algorithms and data structures, such as sorting algorithms, graphs, and binary trees.</p>
-  <p><strong>Tech Stack:</strong> Python.</p>
+  <p><strong>Tech Stack:</strong> Python, C, C++.</p>
   <a href="[LINK_TO_YOUR_PROJECT_REPO]"><strong>View Code ➡️</strong></a>
 </td>
 <td width="50%">
   <h3>🎓 Online Liblary App </h3>
   <p>Tkinter online liblary app </p>
   <p><strong>Tech Stack:</strong> Python.</p>
-  <a href="[LINK_TO_YOUR_PROJECT_REPO]"><strong>View Code ➡️</strong></a>
+  <a href="https://github.com/Kazurek11/online-liblary-app"><strong>View Code ➡️</strong></a>
 </td>
 </tr>
 </table>
