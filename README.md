@@ -45,8 +45,8 @@ I'm a second-year **Computer Science student at the Cracow University of Technol
 <tr>
 <td width="50%">
   <h3>⚽ Real Madrid Match Analyzer</h3>
-  <p>A tool to analyze match statistics for Real Madrid in La Liga. It leverages web scraping to gather data and uses data analysis libraries to visualize key insights.</p>
-  <p><strong>Tech Stack:</strong> Python, Pandas, Matplotlib, BeautifulSoup.</p>
+  <p>A tool to analyze match statistics for Real Madrid in La Liga based on football stats and post-match ratings from the biggest Real Madrid Polish readaction .</p>
+  <p><strong>Tech Stack:</strong> Python, Pandas, Matplotlib, Scikit-learn, Pytorch.</p>
   <a href="https://github.com/Kazurek11/Real-Madrid-Match-Analyzer"><strong>View Code ➡️</strong></a>
 </td>
 <td width="50%">
