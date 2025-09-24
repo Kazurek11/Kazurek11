@@ -66,9 +66,9 @@ I'm a second-year **Computer Science student at the Cracow University of Technol
       <h4>🎓 Algorithms & Data Structures</h4>
       <p>A collection of projects covering key CS concepts, implemented in Python, C, and C++.</p>
       <ul>
-        <li><a href="https://github.com/Kazurek11/Metody-calkowania-numerycznego">Integral Calculator</a></li>
-        <li><a href="https://github.com/Kazurek11/Analiza-algorytmow-sortowania">Sorting Techniques</a></li>
-        <li><a href="https://github.com/Kazurek11/Organizacja-katalogow-za-pomoca-funkcji-haszujacej">Hash Table</a></li>
+        <li><a href="https://github.com/Kazurek11/Metody-calkowania-numerycznego"><strong>Integral Calculator ➡️</strong></a></li>
+        <li><a href="https://github.com/Kazurek11/Analiza-algorytmow-sortowania"><strong>Sorting Techniques ➡️</strong></a></li>
+        <li><a href="https://github.com/Kazurek11/Organizacja-katalogow-za-pomoca-funkcji-haszujacej"><strong>Hash Table ➡️</strong></a></li>
       </ul>
     </td>
   </tr>
