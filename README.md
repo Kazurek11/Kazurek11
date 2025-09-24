@@ -8,11 +8,11 @@
 
 ### 👨‍💻 About Me
 
-I'm a second-year **Computer Science student at the Cracow University of Technology**. For over 1.5 years, I've been developing my Python skills, focusing on its application in data analysis. I'm passionate about **Data Analysis**, **Data Engineering**, and **Machine Learning**. I'm currently forging my path in the IT world by experimenting with various technologies and solving problems with code.
+I'm a second-year **Computer Science student at the Cracow University of Technology**, passionate about **Data Analysis**, **Data Engineering**, and **Machine Learning**. I'm currently forging my path in the IT world by experimenting with various technologies and solving problems with code.
 
-- 🔭 I’m currently working on **enhancing my sports data analysis tool**.
-- 🌱 I’m currently learning **web scraping techniques and the fundamentals of machine learning**.
-- 💬 Ask me about **Python, data analysis, and of course... football!**
+- 🔭 I’m currently enhancing my **sports data analysis tool**.
+- 🌱 I’m currently learning **web scraping** and the fundamentals of **machine learning**.
+- 💬 Ask me about **Python, data analysis, and football!**
 
 ---
 
@@ -20,7 +20,7 @@ I'm a second-year **Computer Science student at the Cracow University of Technol
 
 <div align="center">
   <p>
-    <strong>Languages and Databases:</strong><br>
+    <strong>Languages & Databases:</strong><br>
     <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/></a>
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="sql"/></a>
   </p>
@@ -45,56 +45,32 @@ I'm a second-year **Computer Science student at the Cracow University of Technol
 ### ✨ Featured Projects
 
 <table width="100%">
-  <!-- Project 1: Full Width -->
   <tr>
-    <td colspan="2" valign="top">
-      <h3>⚽ Real Madrid Match Analyzer</h3>
-      <p>A tool to analyze match statistics for Real Madrid in La Liga based on football stats and post-match ratings from the biggest Real Madrid Polish fan community.</p>
-      <p><strong>Tech Stack:</strong> Python, Pandas, Matplotlib, Scikit-learn, Pytorch.</p>
+    <td width="50%" valign="top">
+      <h4>⚽ Real Madrid Match Analyzer</h4>
+      <p>A Python tool to analyze Real Madrid's La Liga match statistics using data science libraries.</p>
       <a href="https://github.com/Kazurek11/Real-Madrid-Match-Analyzer"><strong>View Code ➡️</strong></a>
     </td>
-  </tr>
-  <!-- Projects 2 & 3: Half Width -->
-  <tr>
     <td width="50%" valign="top">
-      <h3>🏥 US Health Insurance Cost Analysis</h3>
-      <p>An analysis of a US health insurance dataset. The project aimed to explore the correlation between various factors (age, sex, BMI) and medical costs using regression models.</p>
-      <p><strong>Tech Stack:</strong> Python, Pandas, Scikit-learn, Seaborn.</p>
+      <h4>🏥 US Health Insurance Analysis</h4>
+      <p>Analysis of a US health insurance dataset to explore cost correlations using regression models.</p>
       <a href="https://github.com/Kazurek11/ACME-Insurance-Analysis"><strong>View Code ➡️</strong></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3>📚 Online Library App</h3>
-      <p>A desktop application for managing a library, built with Tkinter for the GUI.</p>
-      <p><strong>Tech Stack:</strong> Python, Tkinter.</p>
+      <h4>📚 Online Library App</h4>
+      <p>A desktop library management application built with Python and Tkinter for the GUI.</p>
       <a href="https://github.com/Kazurek11/online-liblary-app"><strong>View Code ➡️</strong></a>
     </td>
-  </tr>
-  <!-- Project 4: Parent Project with Sub-Projects -->
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🎓 Algorithms & Data Structures</h3>
-      <p>The three main projects I completed during my Algorithms and Data Structures course, covering numerical integration, sorting algorithms, and hash tables.</p>
-      <p><strong>Tech Stack:</strong> Python, C, C++.</p>
-      <br>
-      <table width="100%">
-        <tr>
-          <td width="33%" valign="top">
-            <h4>∫ Integral Calculator</h4>
-            <p>A C project implementing and benchmarking numerical integration methods (rectangle, trapezium, Monte Carlo) with Makefile-driven builds.</p>
-            <a href="https://github.com/Kazurek11/..."><strong>View Code ➡️</strong></a>
-          </td>
-          <td width="33%" valign="top">
-            <h4>📶 Sorting Techniques</h4>
-            <p>A comparative analysis framework for sorting algorithms in C++, using a Makefile workflow and Python for performance testing and visualization.</p>
-            <a href="https://github.com/Kazurek11/..."><strong>View Code ➡️</strong></a>
-          </td>
-          <td width="33%" valign="top">
-            <h4>#️⃣ Hash Table</h4>
-            <p>An interactive Python/Tkinter app demonstrating a file catalog backed by a hash table with four different collision-resolution strategies.</p>
-            <a href="https://github.com/Kazurek11/..."><strong>View Code ➡️</strong></a>
-          </td>
-        </tr>
-      </table>
+    <td width="50%" valign="top">
+      <h4>🎓 Algorithms & Data Structures</h4>
+      <p>A collection of projects covering key CS concepts, implemented in Python, C, and C++.</p>
+      <ul>
+        <li><a href="https://github.com/Kazurek11/Metody-calkowania-numerycznego">Integral Calculator</a></li>
+        <li><a href="https://github.com/Kazurek11/Analiza-algorytmow-sortowania">Sorting Techniques</a></li>
+        <li><a href="https://github.com/Kazurek11/Organizacja-katalogow-za-pomoca-funkcji-haszujacej">Hash Table</a></li>
+      </ul>
     </td>
   </tr>
 </table>
