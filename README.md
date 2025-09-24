@@ -1,5 +1,4 @@
 <div align="center">
-  <img width="64" height="64" alt="icon" src="https://github.com/user-attachments/assets/7820c2f5-5d53-4ee0-b3de-f683c73fd742" />
   <h1>Hi, I'm Kacper Figura 👋</h1>
   <h3>A Computer Science student with a passion for data.</h3>
 </div>
