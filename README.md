@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a second-year **Computer Science student at the Cracow University of Technology**, passionate about **Data Analysis**, **Data Engineering**, and **Machine Learning**. I'm currently forging my path in the IT world by experimenting with various technologies and solving problems with code.
+I'm a second-year **Computer Science student at the Cracow University of Technology**, passionate about **Data Analysis**, **Quality Assurance**, and **Machine Learning**. I'm currently forging my path in the IT world by experimenting with various technologies and solving problems with code.
 
 - 🔭 I’m currently enhancing my **sports data analysis tool**.
 - 🌱 I’m currently learning adavanced techniques of **SQL** and management of **Databases**.
