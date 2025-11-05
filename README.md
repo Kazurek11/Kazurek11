@@ -51,7 +51,7 @@ I'm a second-year **Computer Science student at the Cracow University of Technol
       <a href="https://github.com/Kazurek11/Real-Madrid-Match-Analyzer"><strong>View Code ➡️</strong></a>
     </td>
     <td width="50%" valign="top">
-      <h4>🏥 US Health Insurance Analysis</h4>
+      <h4>🏥 US IT jobs market Analysis</h4>
       <p>Analysis of jobs market IT sector in USA</p>
       <a href="https://github.com/Kazurek11/ACME-Insurance-Analysis"><strong>View Code ➡️</strong></a>
     </td>
