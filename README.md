@@ -52,7 +52,7 @@ I'm a second-year **Computer Science student at the Cracow University of Technol
     </td>
     <td width="50%" valign="top">
       <h4>🏥 US Health Insurance Analysis</h4>
-      <p>Analysis of a US health insurance dataset to explore cost correlations using regression models.</p>
+      <p>Analysis of jobs market IT sector in USA</p>
       <a href="https://github.com/Kazurek11/ACME-Insurance-Analysis"><strong>View Code ➡️</strong></a>
     </td>
   </tr>
